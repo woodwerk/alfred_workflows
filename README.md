@@ -23,7 +23,11 @@ Select from three diceware word lists. A Python script returns four (4) randomly
 ![workflow](https://github.com/woodwerk/alfred_diceware/raw/master/diceware.png)
 ***
 
-Direct Dropbox URL
+### [Direct Dropbox URL](https://github.com/woodwerk/alfred_directDB)
+Select from three diceware word lists. A Python script returns four (4) randomly selected words from the chosen list.
+
+![workflow](https://github.com/woodwerk/alfred_diceware/raw/master/alfred_directDB.jpg)
+***
 
 Merge Images
 

@@ -16,7 +16,7 @@ A file-action triggered, Python-powered workflow to get the file or path names o
 ***
 
 ### [DiceWare](https://github.com/woodwerk/alfred_diceware)
-Prompts allows selection from three diceware word lists. A Python script returns four (4) randomly selected words from the chosen list.
+Select from three diceware word lists. A Python script returns four (4) randomly selected words from the chosen list.
 
 ![workflow](https://github.com/woodwerk/alfred_diceware/raw/master/diceware.png)
 ***

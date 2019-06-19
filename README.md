@@ -3,6 +3,8 @@
 
 A collection of custom Alfred workflows
 
+***
+
 ### [Convert Word to PDF](https://github.com/woodwerk/alfred_convertWord2PDF)
 A file-action triggered workflow to automate conversion of Word files into PDFs.
 

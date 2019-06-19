@@ -11,8 +11,12 @@ A file-action triggered workflow to automate conversion of Word files into PDFs.
 ### [Copy filename or path](https://github.com/woodwerk/alfred_copy_file_path)
 A file-action triggered, Python-powered workflow to get the file or path names of the selected FINDER object.
 ![workflow](https://raw.githubusercontent.com/woodwerk/alfred_copy_file_path/master/alfred_copy_file_path.png)
+***
 
-DiceWare
+### [DiceWare](https://github.com/woodwerk/alfred_diceware)
+Prompts allows selection from three diceware word lists. A Python script returns four (4) randomly selected words from the chosen list.
+![workflow](https://raw.githubusercontent.com/woodwerk/alfred_copy_file_path/master/alfred_diceware.png)
+***
 
 Direct Dropbox URL
 

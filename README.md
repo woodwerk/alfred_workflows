@@ -33,7 +33,11 @@ An file-action triggered Alfred workflow to get the direct URL (shortened) of a 
 ![workflow](https://github.com/woodwerk/alfred_directDB/raw/master/alfred_directDB.jpg)
 ***
 
-Merge Images
+### [Merge Images](https://github.com/woodwerk/alfred_merge_images)
+A file-action triggered workflow to combine multiple images into a single PDF.
+
+![workflow](https://github.com/woodwerk/alfred_merge_images/raw/master/workflow.png)
+***
 
 Modify SWA ICS files
 

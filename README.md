@@ -39,7 +39,10 @@ A file-action triggered workflow to combine multiple images into a single PDF.
 ![workflow](https://github.com/woodwerk/alfred_merge_images/raw/master/workflow.png)
 ***
 
-Modify SWA ICS files
+### [Modify SWA ICS files](https://github.com/woodwerk/alfred_modifySWA)
+
+![workflow](https://github.com/woodwerk/alfred_modifySWA/blob/master/modify%20SWA%20ICS.png)
+***
 
 Phone number cleaner
 

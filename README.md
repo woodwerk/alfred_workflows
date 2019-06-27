@@ -28,7 +28,7 @@ Select from three diceware word lists. A Python script returns four (4) randomly
 
 ### [Direct Dropbox URL](https://github.com/woodwerk/alfred_directDB)
 
-An file-action triggered Alfred workflow to get the direct URL (shortened) of a selected Dropbox file.
+An file-action triggered Alfred workflow to get the shortened, direct URL of a selected Dropbox file.
 
 ![workflow](https://github.com/woodwerk/alfred_directDB/raw/master/alfred_directDB.jpg)
 ***

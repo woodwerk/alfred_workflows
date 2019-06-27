@@ -49,4 +49,7 @@ A file-action triggered workflow to combine multiple images into a single PDF.
 ![workflow](https://github.com/woodwerk/alfred_phone_number_cleaner/blob/master/alfred_phone_number_cleaner_workflow.png)
 ***
 
-Rename
+### [Rename](https://github.com/woodwerk/alfred_rename)
+
+![workflow](https://github.com/woodwerk/alfred_rename/blob/master/alfred_rename_workflow.png)
+***

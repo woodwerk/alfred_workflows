@@ -5,11 +5,11 @@ A collection of custom Alfred workflows
 
 ***
 
-### [List My Workflows](https://github.com/woodwerk/alfred_list_workflows)
+### [List My Workflows](https://github.com/woodwerk/alfred_list_my_workflows)
 
 This workflow assembles a list of your Alfred workflows (names and descriptions).
 
-![workflow](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/list_my_workflows.png)
+![workflow](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/list_workflows.png)
 
 ***
 

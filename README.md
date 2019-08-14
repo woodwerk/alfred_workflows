@@ -1,7 +1,7 @@
 ![](https://github.com/woodwerk/alfred_workflows/blob/master/alfred.png?raw=true)
 # Alfred workflows 
 
-A collection of custom Alfred workflows
+A collection of custom Alfred workflows. A complete list of all my workflows is [here](https://github.com/woodwerk/alfred_list_my_workflows).
 
 ***
 
